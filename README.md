@@ -51,13 +51,15 @@
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (0)
+## Vetted (2)
+
+- `0310Tabari.Tarikh.Shia003474Vols-ara1.mARkdown`
+- `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.mARkdown`
 
 
 
 
-
-# 0200AH [[ [Re]generated on 2016-08-19 (13:43:35) ]]
+# 0200AH [[ [Re]generated on 2016-08-21 (20:32:00) ]]
 
 * `0110HasanBasri.FadailMakka `
     * TAGS: CENT0200,PPE,_AJZA,_BULDAN,_HADITH,_TABAQAT,_TARAJIM,_TARIKH
