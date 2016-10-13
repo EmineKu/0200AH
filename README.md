@@ -1,6 +1,4 @@
 ## Status Report
-
-Messing with the perfectly generated report...
  
 * 87 titles
 * 54,500,407 words
@@ -108,7 +106,7 @@ Messing with the perfectly generated report...
 
 
 
-# 0200AH [[ [Re]generated on 2016-10-14 (00:22:56) ]]
+# 0200AH [[ [Re]generated on 2016-10-14 (00:34:45) ]]
 
 * `0104MujahidIbnJabr.Tafsir (TAGS: CENT0200, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `0110HasanBasri.FadailMakka (TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
