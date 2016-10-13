@@ -104,7 +104,7 @@
 
 
 
-# 0200AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]
+# 0200AH [[ [Re]generated on 2016-10-13 (10:34:22) ]]
 
 * `0110HasanBasri.FadailMakka (TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0156IbnAbiCuruba.Manasik (TAGS: CENT0200, _AJZA, _BUHUTH, _HADITH, _MASAIL, _TARAJIM)`
@@ -124,8 +124,16 @@
 * `0181IbnMubarak.Musnad (TAGS: CENT0200, _AJZA, _HADITH, _MACAJIM, _MASANID, _TARAJIM)`
 * `0181IbnMubarak.Zuhd (TAGS: CENT0200, _AJZA, _AKHLAQ, _HADITH)`
 * `0182AbuYusufYacqub.Athar (TAGS: CENT0200, _FIQH, _HADITH, _HANAFI)`
+* `0189MuhammadShaybani.Asl (TAGS: CENT0200, _FIQH, _HADITH, _HANAFI)`
+* `0189MuhammadShaybani.JamicSaghir (TAGS: CENT0200, _FIQH, _HADITH, _HANAFI)`
+* `0189MuhammadShaybani.Kasb (TAGS: CENT0200, _FIQH, _HANAFI)`
+* `0189MuhammadShaybani.Siyar (TAGS: CENT0200, _FIQH, _HANAFI, _SIYASA)`
 * `0195MuarrijSadusi.HadhfMinNasabQuraysh (TAGS: CENT0200, GEN, PPE, _ANSAB, _BULDAN, _TARIKH)`
+* `0197IbnWahbQurashi.Qadar (TAGS: CENT0200, _AJZA, _CAQAID, _HADITH, _MILAL)`
+* `0197WakicIbnJarrah.NuskhaWakic (TAGS: CENT0200, _AJZA, _HADITH, _SUNNI, _TARAJIM)`
+* `0198SufyanIbnCuyayna.JuzFihiHadith (TAGS: CENT0200, _AJZA, _HADITH, _TARAJIM)`
 * `0200AbuShis.Diwan (TAGS: CENT0200, _SHICR_CABBASI, _SHICR)`
+* `0200IbnCumarDabbi.Fitna (TAGS: CENT0200, PPE, _HADITH, _SUNNI, _TARIKH)`
 
 
 ## General description of the workflow with mARkdown
