@@ -106,9 +106,12 @@
 
 
 
-# 0200AH [[ [Re]generated on 2016-10-13 (13:30:06) ]]
+# 0200AH [[ [Re]generated on 2016-10-14 (00:22:56) ]]
 
+* `0104MujahidIbnJabr.Tafsir (TAGS: CENT0200, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `0110HasanBasri.FadailMakka (TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0110IbnSirin.MuntakhabKalamFiTafsirAhlam (TAGS: CENT0100, CENT0200, _AHLAM, _CHRONOMULTIPLE, _MISC, _TAFSIR)`
+* `0150MuqatilIbnSulayman.TafsirMuqatil (TAGS: CENT0200, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `0156IbnAbiCuruba.Manasik (TAGS: CENT0200, _AJZA, _BUHUTH, _HADITH, _MASAIL, _TARAJIM)`
 * `0161SufyanThawri.Tafsir (TAGS: CENT0200, _CULUM, _HADITH, _QURAN, _SUNNI, _TAFSIR)`
 * `0168IbnTahman.Mashyakha (TAGS: CENT0200, _AJZA, _HADITH, _TARAJIM)`
@@ -128,6 +131,7 @@
 * `0182AbuYusufYacqub.Athar (TAGS: CENT0200, _FIQH, _HADITH, _HANAFI)`
 * `0182AbuYusufYacqub.RaddCalaSiyarAwzaci (TAGS: CENT0200, _BUHUTH, _FIQH, _HANAFI, _MASAIL, _SIYASA, _USUL)`
 * `0189MuhammadShaybani.Asl (TAGS: CENT0200, _FIQH, _HADITH, _HANAFI)`
+* `0189MuhammadShaybani.HujjaCalaAhlMadina (TAGS: CENT0200, _FIQH, _HADITH, _HANAFI)`
 * `0189MuhammadShaybani.JamicSaghir (TAGS: CENT0200, _FIQH, _HADITH, _HANAFI)`
 * `0189MuhammadShaybani.Kasb (TAGS: CENT0200, _FIQH, _HANAFI)`
 * `0189MuhammadShaybani.Siyar (TAGS: CENT0200, _FIQH, _HANAFI, _SIYASA)`
