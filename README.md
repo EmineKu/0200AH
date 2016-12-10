@@ -138,7 +138,7 @@
 
 
 
-# 0200AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
+# 0200AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
 
 * `0104MujahidIbnJabr.Tafsir (TAGS: CENT0200, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `0110HasanBasri.FadailMakka (TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -201,6 +201,8 @@
 * `0198SufyanIbnCuyayna.JuzHadith (TAGS: CENT0200, _AJZA, _HADITH, _SUNNI)`
 * `0200AbuShis.Diwan (TAGS: CENT0200, _SHICR_CABBASI, _SHICR)`
 * `0200IbnCumarDabbi.Fitna (TAGS: CENT0200, PPE, _HADITH, _SUNNI, _TARIKH)`
+* `0200YahyaIbnSalam.Tafsir (TAGS: CENT0200, _TAFSIR)`
+* `0200YahyaIbnSalam.Tasarif (TAGS: CENT0200, _CULUM, _QURAN)`
 
 
 ## General description of the workflow with mARkdown
