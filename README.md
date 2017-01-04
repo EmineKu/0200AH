@@ -138,7 +138,7 @@
 
 
 
-# 0200AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
+# 0200AH [[ [Re]generated on 2017-01-04 (15:09:51) ]]
 
 * `0104MujahidIbnJabr.Tafsir (TAGS: CENT0200, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `0110HasanBasri.FadailMakka (TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -153,10 +153,14 @@
 * `0142IbnMuqaffac.AdabSaghir (TAGS: CENT0200, _ADAB, _BALAGHA)`
 * `0142IbnMuqaffac.AdabSaghirWaKabir (TAGS: CENT0200, _ADAB, _ADHKAR, _RAQAIQ)`
 * `0142IbnMuqaffac.KalilaWaDimna (TAGS: _ADAB, _BALAGHA, _CENT00NO)`
+* `0150AbuHanifa.FiqhAkbar (TAGS: CENT0200, _CAQAID)`
 * `0150AbuHanifa.Musnad (TAGS: CENT0200, _HADITH)`
+* `0150AbuHanifa.SharhMaysir (TAGS: CENT0200, _CAQAID, _MILAL)`
 * `0150MuqatilIbnSulayman.TafsirMuqatil (TAGS: CENT0200, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `0151IbnIshaq.Sira (TAGS: CENT0200, _IMAM, _NABI, _SHAMAIL, _SIRA)`
 * `0156IbnAbiCuruba.Manasik (TAGS: CENT0200, _AJZA, _BUHUTH, _HADITH, _MASAIL, _TARAJIM)`
+* `0161SufyanThawri.Faraid (TAGS: CENT0200, _AJZA, _HADITH)`
+* `0161SufyanThawri.Hadith (TAGS: CENT0200, _AJZA, _HADITH)`
 * `0161SufyanThawri.Tafsir (TAGS: CENT0200, _CULUM, _HADITH, _QURAN, _SUNNI, _TAFSIR)`
 * `0164MajishunMadani.Hajj (TAGS: CENT0200, _AJZA, _HADITH)`
 * `0168IbnTahman.Mashyakha (TAGS: CENT0200, _AJZA, _HADITH, _TARAJIM)`
